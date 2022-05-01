@@ -1,5 +1,8 @@
 A simple implementation of a Merkle Tree written in Go.
 
+PD: This repository was created with the only purpose of serving as a demo for my article [My introduction to Blockchain - Merkle tree in go](https://www.kungfudev.com/posts/my-introduction-to-blockchain-and-merkle-tree/).
+
+
 ## Example
 
 ```go
